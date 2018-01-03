@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lollipop.iml" filepath="$PROJECT_DIR$/.idea/modules/lollipop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lollipop_main.iml" filepath="$PROJECT_DIR$/.idea/modules/lollipop_main.iml" group="lollipop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lollipop_test.iml" filepath="$PROJECT_DIR$/.idea/modules/lollipop_test.iml" group="lollipop" />
+    </modules>
+  </component>
+</project>
