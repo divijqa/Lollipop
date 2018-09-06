@@ -26,15 +26,15 @@ public class sendEmailReport extends testBase  {
 
     public static void sendEmailReportTo(){
         //give your email id
-        final String username = "divij.chinnu@gmail.com";
+        final String username = "@gmail.com";
         //enter your password
-        final String password = "Dd*37005";
+        final String password = "*********";
         //receivers email address
-        final String receiverEmailID = "saikiran.vicky@gmail.com";
+        final String receiverEmailID = "@gmail.com";
         //CC
-        final String receiverEmailCC = "narasimhaayilneni@gmail.com";
+        final String receiverEmailCC = "@gmail.com";
         //BCC
-        final String receiverEmailBCC = "divij.qa99@gmail.com";
+        final String receiverEmailBCC = "@gmail.com";
         //Subject line
         final String subjectLine = "Automation Test Report (open in GoogleChrome)";
         //body
